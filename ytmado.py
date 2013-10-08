@@ -58,7 +58,3 @@ for link in links:
 
 c.close()
 c.logout()
-#print(path_video)
-#
-#if __name__ == '__main__':
-#    main()
